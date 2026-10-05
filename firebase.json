@@ -1,0 +1,28 @@
+{
+	"firestore": {
+		"rules": "firestore.rules"
+	},
+	"flutter": {
+		"platforms": {
+			"android": {
+				"default": {
+					"projectId": "retailiq-63912",
+					"appId": "1:509489973435:android:a70efff964c4fb3332419e",
+					"fileOutput": "android/app/google-services.json"
+				}
+			},
+			"dart": {
+				"lib/firebase_options.dart": {
+					"projectId": "retailiq-63912",
+					"configurations": {
+						"android": "1:509489973435:android:a70efff964c4fb3332419e",
+						"ios": "1:509489973435:ios:262c74d9c65adbbb32419e",
+						"macos": "1:509489973435:ios:262c74d9c65adbbb32419e",
+						"web": "1:509489973435:web:e7434f92bcbc3e4432419e",
+						"windows": "1:509489973435:web:92e11c7527c9960a32419e"
+					}
+				}
+			}
+		}
+	}
+}
