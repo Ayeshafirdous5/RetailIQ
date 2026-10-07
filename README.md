@@ -450,19 +450,41 @@ Potential future enhancements include:
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here as part of the portfolio documentation.
+A visual overview of RetailIQ across its core business workflows and responsive interface.
 
-### Planned Sections
+### Dashboard
 
-- Dashboard
-- Billing
-- Inventory
-- Analytics
-- Insights
-- PDF Invoice
-- Mobile responsive UI
+The RetailIQ dashboard provides a centralized view of sales performance, inventory status, business alerts, and key business metrics.
 
----
+![RetailIQ Dashboard](screenshots/dashboard.png)
+
+### Billing & Inventory
+
+RetailIQ provides a streamlined billing workflow for recording customer transactions while maintaining real-time visibility into product inventory.
+
+| Billing | Inventory |
+|---|---|
+| ![RetailIQ Billing](screenshots/billing.png) | ![RetailIQ Inventory](screenshots/inventory.png) |
+
+### Analytics
+
+RetailIQ includes business analytics for monitoring revenue, sales trends, product performance, category performance, payment methods, and other key metrics.
+
+![Analytics Overview](screenshots/analytics-overview.png)
+
+![Analytics Details](screenshots/analytics-details.png)
+
+### Invoice Generation
+
+Completed transactions can be converted into professional PDF invoices for preview, printing, and sharing.
+
+![RetailIQ PDF Invoice](screenshots/invoice-pdf.png)
+
+### Responsive Mobile Interface
+
+RetailIQ is designed to adapt across desktop and mobile layouts, allowing business information to remain accessible on smaller screens.
+
+![RetailIQ Mobile Dashboard](screenshots/dashboard-mobile-1.jpeg)
 
 ## Author
 
